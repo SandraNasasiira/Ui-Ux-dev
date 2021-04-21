@@ -1,0 +1,14 @@
+h1{
+    padding-right: 200px;
+    }
+    body{
+        background-color: brown;
+
+    }
+    .P1{
+    margin: 30px;
+    padding:20px;
+    border: 20px;
+    width: 500px;
+    border-style: solid;
+    }
